@@ -5,6 +5,13 @@
 
 The WoodGrove Bank Expense Trends add-in demonstrates how you can use the new JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in. With Expense Trends, you can import expense transactions into the workbook, create dashboard and trackers, view and analyze trends, and track special transactions such as charitable donations and follow up items. The sample provides two experiences: one with task pane and another with add-in commands. The following figures show the main screens of this add-in.
 
+1.  Item1
+2.  Item2
+3.  Item3
+
+1.  Item2
+2.  Item2
+
 ## Table of Contents
 
 ## My awesome subheading
@@ -41,58 +48,3 @@ You'll need:
 ## Copyright
 
 Copyright (c) 2016 Microsoft. All rights reserved.
-
-1.  Item1
-2.  Item2
-
-3.     Item3
-
- 1.  Item 2
- 2.  Item 3
-
- 1.  Item 4
-
-1.  Item1
-
- 1.  Adasd
-
- 1.  Asdsad
-
- 1.  Aasdass
-
- 1.  Asdasd
-
- 3.  Adsad
-
- 3.  Sadasdsad
-
- 1.  Asdas
-
- 1.  Adssaa
-
- 1.  Asdsad
-
- 3.  Adsadsa             
- 4.  Asdsada                                                                    a
- 5.  Adsads
- 6.  Asd
-
-3.  Item2
-4.  Item3
-
-Asdsadsadsa
-
-Adasdsa
-
-1.  Item1
-2.  Item2
-
-3.     Item3
-
- 1.  Item 2
- 2.  Item 3
- 3.  Item 4
-
-Akdmhaskldjsalk
-
-Adksja;dklsa
