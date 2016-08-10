@@ -17,15 +17,33 @@ The WoodGrove Bank Expense Trends add-in demonstrates how you can use the new Ja
 *   [Additional resources](#additional-resources)
 *   [Additional resources](#additional-resources)
 *   [Additional resources](#additional-resources)
-*   [Additional resources](#additional-resources)
+
+·<span></span> [Additional resources](#additional-resources)
 
 1.  Item1
 2.  Item2
-3.  Item3
+
+3.     Item3
+
+1.     Items 1
+
+2.     Items 2
+
+3.     Items 3
 
 *   Item1
 *   Item2
 *   Item3
+
+1.  Item1
+2.  Item2
+
+1.  Items 4
+2.  Items 5
+
+1.  Items 6
+
+4.  Item3
 
 ## Prerequisites
 
