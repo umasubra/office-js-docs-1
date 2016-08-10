@@ -50,25 +50,3 @@ You'll need:
 ## Copyright
 
 Copyright (c) 2016 Microsoft. All rights reserved.
-
-1.       List
-
-2.       List
-
-3.       List
-
-1.  Item1
-2.  Item2
-3.  Item3
-
-adsadsa
-
-*   Item1
-*   Item2
-*   Item3
-
-Adsadas
-
-Adsadas
-
-adsads
