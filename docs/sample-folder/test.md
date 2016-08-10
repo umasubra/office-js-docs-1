@@ -44,22 +44,4 @@ Copyright (c) 2016 Microsoft. All rights reserved.
 
 1.  Item1
 2.  Item2
-
-3.     Item3
-
-1.     BLAH BLAH BLAH BLAH
-
-1.     BLAH BLAH
-
- 1.  Item2
- 2.  Item3
-
-Item4
-
-*   Item1
-*   Item2
-*   Item3
-
- *   Item 5
- *   Item 6
- *   Item 7
+3.  Item3
