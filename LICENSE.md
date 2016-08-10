@@ -1,4 +1,18 @@
 
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+1.  Item1
+2.  Item2
+3.  Item3
+
+*   Item1
+*   Item2
+*   Item3
+
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States](https://creativecommons.org/licenses/by-nc-nd/3.0/us) license.
 
 Copyright (c) Microsoft Corporation. Distributed under the following terms:
@@ -9,4 +23,4 @@ Copyright (c) Microsoft Corporation. Distributed under the following terms:
 
 Microsoft and any contributors reserves all others rights, whether under copyrights, patents, or trademarks, or by implication, estoppel or otherwise.
 
-# Hello World
+Hello World
