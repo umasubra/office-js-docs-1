@@ -23,7 +23,11 @@ Here are some ways you can contribute to this documentation:
 
 ## Contribute using GitHub
 
-Use GitHub to contribute to this documentation without having to clone the repo to your desktop. This is the easiest way to create a pull request in this repository. Use this method to make a minor change that doesn't involve code changes.
+Use GitHub to contribute to this documentation without having to clone the repo to your desktop. This is the _easiest way_ to create a pull request in this <u>repository</u>. Use this method to make a minor change that doesn't involve code changes.
+
+*   \\tk2offfsm03\FileShares\UmaS\ManifestsItem1
+*   \\tk2offfsm03\FileShares\UmaS\ManifestsItem2
+*   Item3
 
 [![Title: images/image1470942114797.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470942114797.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470942114797.Jpeg)
 
