@@ -3,6 +3,8 @@
 
 Thank you for your interest in our documentation!
 
+[![Title: images/image1470940120688.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470940120688.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470940120688.Jpeg)
+
 *   [Ways to contribute](#ways-to-contribute)
 *   [Contribute using GitHub](#contribute-using-github)
 *   [Contribute using Git](#contribute-using-git)
@@ -11,8 +13,6 @@ Thank you for your interest in our documentation!
 *   [More resources](#more-resources)
 
 ## Ways to contribute
-
-## [![Title: images/image1469141849332.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1469141849332.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs/master/images/image1469141849332.Jpeg)
 
 Here are some ways you can contribute to this documentation:
 
@@ -57,8 +57,8 @@ Use Git to contribute substantive changes, such as:
 
 4.     You will be asked to sign the Contributor's License Agreement if you are:
 
- *   A member of the Microsoft Open Technologies group.
- *   A contributors who doesn't work for Microsoft.
+*   A member of the Microsoft Open Technologies group.
+*   A contributors who doesn't work for Microsoft.
 
 As a community member, you must sign the Contribution License Agreement (CLA) before you can contribute large submissions to a project. You only need to complete and submit the documentation once. Carefully review the document. You may be required to have your employer sign the document.
 
@@ -78,15 +78,15 @@ Pull requests are typically reviewed within 10 business days.
 
 4.     Copy your fork to your computer. To do this, open Git Bash. At the command prompt enter:
 
-    5. 
+```
+5. 
+```
 
 Next, create a reference to the root repository by entering these commands:
 
-    cd <repo name>
-
-    git remote add upstream https://github.com/OfficeDev/<repo name>.git
-
-    git fetch upstream
+```
+cd <repo name>
+```
 
 Congratulations! You've now set up your repository. You won't need to repeat these steps again.
 
@@ -122,7 +122,9 @@ To edit files, open them in an editor of your choice and modify them. To create 
 
 The files in `C:\Users\<yourusername>\<repo name>` are a working copy of the new branch that you created in your local repository. Changing anything in this folder doesn't affect the local repository until you commit a change. To commit a change to the local repository, type the following commands in GitBash:
 
-    git add .
+```
+git add .
+```
 
 The `add` command adds your changes to a staging area in preparation for committing them to the repository. The period after the `add` command specifies that you want to stage all of the files that you added or modified, checking subfolders recursively. (If you don't want to commit all of the changes, you can add specific files. You can also undo a commit. For help, type `git add -help` or `git status`.)
 
@@ -152,11 +154,15 @@ After a branch is successfully merged (that is, your pull request is accepted), 
 
 For example, if your local branch X was successfully merged into the OfficeDev/microsoft-graph-docs master branch and you want to make additional updates to the content that was merged. Create a new local branch, X2, from the OfficeDev/microsoft-graph-docs master branch. To do this, open GitBash and execute the following commands:
 
-    cd microsoft-graph-docs
+```
+cd microsoft-graph-docs
+```
 
 You now have local copies (in a new local branch) of the work that you submitted in branch X. The X2 branch also contains all the work other writers have merged, so if your work depends on others' work (for example, shared images), it is available in the new branch. You can verify that your previous work (and others' work) is in the branch by checking out the new branch...
 
-    git checkout X2
+```
+git checkout X2
+```
 
 ...and verifying the content. (The `checkout` command updates the files in `C:\Users\<yourusername>\microsoft-graph-docs` to the current state of the X2 branch.) Once you check out the new branch, you can make updates to the content and commit them as usual. However, to avoid working in the merged branch (X) by mistake, it's best to delete it (see the following **Delete a branch** section).
 
