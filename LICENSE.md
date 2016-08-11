@@ -7,6 +7,8 @@
 
 ## Heading 2
 
+## [![Title: images/image1470895512252.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470895512252.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470895512252.Jpeg)
+
 ### Heading 3
 
 1.  Item1
