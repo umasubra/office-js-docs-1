@@ -1,4 +1,6 @@
 
+# [![Title: images/image1470895355206.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470895355206.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470895355206.Jpeg)
+
 # Heading 1
 
 ## Heading 2
@@ -7,7 +9,8 @@
 
 1.  Item1
 2.  Item2
-3.  Item3
+
+3.     Item3
 
 *   Item1
 *   Item2
