@@ -25,6 +25,8 @@ Here are some ways you can contribute to this documentation:
 
 Use GitHub to contribute to this documentation without having to clone the repo to your desktop. This is the easiest way to create a pull request in this repository. Use this method to make a minor change that doesn't involve code changes.
 
+[![Title: images/image1470942114797.Jpeg](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470942114797.Jpeg)](https://raw.githubusercontent.com/umasubra/office-js-docs-1/master/images/image1470942114797.Jpeg)
+
 **Note** Using this method allows you to contribute to one article at a time.
 
 ### To Contribute using GitHub
